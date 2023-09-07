@@ -1,9 +1,0 @@
-spring:
-  datasource:
-    url: jdbc:postgresql://localhost:5432/management_of_schools
-    username: postgres
-    password: password
-
-  sql:
-    init:
-      mode: always
